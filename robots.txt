@@ -5,3 +5,4 @@ Line 1Change should be non FF
 # Allow crawling of all content
 User-agent: *
 Disallow humans
+Humans Begone!!!
